@@ -1,5 +1,5 @@
 # git-demo
 This is my first git repository.
 <br>
-Author - Sarfraz Omer
+<strong>Author - Sarfraz Omer</strong>
 
